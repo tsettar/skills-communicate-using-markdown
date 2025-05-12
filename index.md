@@ -1,4 +1,8 @@
 # Title Line
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
 ## Second line
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
